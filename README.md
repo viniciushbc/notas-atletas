@@ -1,2 +1,1 @@
-# notas-atletas
-Exibe a média valida das notas do atletas.
+Para o código funcionar basta chamar a função exibirMediaAtletas(atletas);
