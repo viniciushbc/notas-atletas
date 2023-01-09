@@ -24,7 +24,7 @@ function exibirMediaAtletas(atletas) {
         let soma = 0;
         notasComputadas.forEach(function (nota) {
             soma = soma + nota;
-        })
-        console.log("Atleta: " + atletas[i].nome + "\nNotas Obtidas: " + atletas[i].notas.join(",") + "\nMédia Válida: " + soma / notasComputadas.length)
+        });
+        console.log("Atleta: " + atletas[i].nome + "\nNotas Obtidas: " + atletas[i].notas.join(",") + "\nMédia Válida: " + soma / notasComputadas.length);
     }
 }
