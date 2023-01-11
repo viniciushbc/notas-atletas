@@ -13,7 +13,7 @@ A aplicação consiste no recebimento notas de desempenho para atletas e calcula
 
 # Como executar o projeto 🔗
 
-## Basta chamar a função exibirMediaAtletas(atletas);
+Basta chamar a função exibirMediaAtletas(atletas);
 
 # Autor
 
