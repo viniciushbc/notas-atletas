@@ -1,23 +1,27 @@
-# Notas-Atletas 
+# 🏅 Notas-Atletas
 
-> Status: Concluído ✅
+> ✅ **Status:** Concluído
 
-# Sobre o projeto 👇🏻
+---
 
-Notas-Atletas é uma aplicação de certificação de curso disponibiliizado pela [DEVstart](https://devstart.tech)
+## 📘 Sobre o Projeto
 
-A aplicação consiste no recebimento notas de desempenho para atletas e calcula para cada um deles a sua média com base nas notas intermediárias.
+**Notas-Atletas** é uma aplicação simples desenvolvida como parte de uma certificação da [DEVstart](https://devstart.tech).
 
-# Tecnologias utilizadas 📌
-- JavaScript
+A proposta é registrar as notas atribuídas a atletas por juízes e calcular a **média válida**, desconsiderando a **maior** e a **menor** nota de cada um. O objetivo é simular a lógica usada em competições reais para garantir uma média justa.
 
-# Como executar o projeto 🔗
+---
 
-Basta chamar a função exibirMediaAtletas(atletas);
+## 💻 Tecnologias Utilizadas
 
-# Autor
+- 🟨 JavaScript
 
-Vinícius Henrique Budag Coelho
+---
 
-[LinkedIn](linkedin.com/in/vinícius-henrique-b24203234)
+## ▶️ Como Executar
 
+1. Clone ou copie o código.
+2. No console de navegador ou em um ambiente Node.js, chame:
+
+```js
+exibirMediaAtletas(atletas);
